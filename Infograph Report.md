@@ -1,7 +1,7 @@
 # Trends in AMR Product Development
 **WHO Pipeline**
 
-**Authors: Ugochi Igwe(@Ugo), Cateline Atieno Ouma (@Cateline), Noreen Nasambu Juma( @Nareju\_noreen), Brian Bosire( @** **@Bosire \_ Ke),**
+**Authors: Ugochi Igwe(@Ugo), Cateline Atieno Ouma (@Cateline), Noreen Nasambu Juma( @Nareju\_noreen), Brian Bosire( @Bosire \_ Ke),**
 
 **Github Code Link: https://github.com/Cateline/Stage-2-HackBio-Visualization/blob/main/HackBio%20Stage%202%20R%20Merged%20Scripts.R**
 

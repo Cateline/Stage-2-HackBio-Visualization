@@ -126,10 +126,4 @@ To run this code, ensure you have the following software and libraries installed
 ## Running the Script
 
 1. Make sure the dataset is correctly placed in the working directory.
-2. Run the script step by step to generate the visualizations. If needed, modify file paths or column names to fit your dataset structure.
-3. To run the Shiny dashboard, execute the Shiny app section of the code, and it will launch an interactive UI in your web browser.
-
-## Conclusion
-
-This project provides comprehensive data visualizations for AMR product development, exploring key features such as R&D phase, product types, innovation status, and pathogen category. The interactive Shiny app allows dynamic visualization of donut charts, making it easier to analyze the dataset.
-
+2. Run the script step by step to generate the visualizations. If needed, modify file paths or column names to fit your dataset structure

@@ -4,7 +4,7 @@
 
 **Github Code Link: https://github.com/Cateline/Stage-2-HackBio-Visualization/blob/main/HackBio%20Stage%202%20R%20Merged%20Scripts.R**
 
-The data for this infograph was drawn from the WHO pipeline of antibacterial products addressing drug-resistant infections caused by priority pathogens, based on the WHO priority pathogen list. These data include products in phases I–III of clinical development, none of which have received market authorization for human use. The infographic examines whether the R&D pipeline addresses infections caused by bacterial priority pathogens (including *Clostridioides difficile* and *Helicobacter pylori*). It also evaluates the products' potential effectiveness, availability in different formulations, and whether they contain New Chemical Entities (NCE).
+The data for this infograph was drawn from the WHO pipeline of antibacterial products addressing drug-resistant infections caused by priority pathogens, based on the WHO priority pathogen list( _World Health Organization_, 2022).These data include products in phases I–III of clinical development, none of which have received market authorization for human use. The infographic examines whether the R&D pipeline addresses infections caused by bacterial priority pathogens (including *Clostridioides difficile* and *Helicobacter pylori*). It also evaluates the products' potential effectiveness, availability in different formulations, and whether they contain New Chemical Entities (NCE).
 
 The candidate products are classified by type, pathogen category, clinical development phase, expected activity against priority pathogens, route of administration, and innovativeness. According to the pipeline, 57.2% of the candidate products are antibiotics, while 42.8% are non-traditional products. This reflects a continued focus on antibiotic development, alongside an increasing emphasis on innovative non-traditional therapies, which may play a significant role in combating antimicrobial resistance (AMR). Non-traditional products include antibodies, bacteriophages, phage-derived enzymes, immunomodulating agents, microbiome-modulating agents, and other miscellaneous therapies.
 
@@ -14,11 +14,14 @@ The expected activity of candidate products against priority pathogens is catego
 
 The leading developers in this pipeline include Qpex Biopharma, Entasis Therapeutics Inc., and GlaxoSmithKline. Their contributions signify strong investment by major pharmaceutical companies in addressing the global AMR crisis. While progress is being made, there is still a need for continued innovation in the development of AMR-targeting products.
 
-**Infographs**
+**Infograph**
+Link: https://github.com/Cateline/Stage-2-HackBio-Visualization/blob/main/Stage%202%20Infograph.pdf
 
 ![image](https://github.com/user-attachments/assets/264f247c-948d-41b2-ba30-fce62599e7cd)
 
 
 ![image](https://github.com/user-attachments/assets/0783bc49-0871-447c-92a6-7764b8c720e2)
+Reference
+World Health Organization. (2022). Antibacterial products in clinical development for priority pathogens. Online verfügbar unter https://www. who. int/publications/i/item/WHO-EMP-IAU-2019.12,[letzter Aufruf: 13.03. 2023].
 
 

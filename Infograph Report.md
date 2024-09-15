@@ -16,8 +16,9 @@ The leading developers in this pipeline include Qpex Biopharma, Entasis Therapeu
 
 **Infographs**
 
-![](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)
+![image](https://github.com/user-attachments/assets/264f247c-948d-41b2-ba30-fce62599e7cd)
 
-![](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
 
-icrosoft Word text here..
+![image](https://github.com/user-attachments/assets/0783bc49-0871-447c-92a6-7764b8c720e2)
+
+

@@ -22,7 +22,9 @@ Link: https://github.com/Cateline/Stage-2-HackBio-Visualization/blob/main/Stage%
 
 
 ![image](https://github.com/user-attachments/assets/0783bc49-0871-447c-92a6-7764b8c720e2)
-Reference
+
+## Reference
+
 World Health Organization. (2022). Antibacterial products in clinical development for priority pathogens. Online verfügbar unter https://www. who. int/publications/i/item/WHO-EMP-IAU-2019.12,[letzter Aufruf: 13.03. 2023].
 
 

@@ -82,18 +82,27 @@ ggplot(pathogen_rd_phase_counts, aes(x = reorder(`Pathogen category`, count), y 
   theme(legend.title = element_blank())  # Remove legend title
 
 
-# Summarizing data for heatmap
-heatmap_data <- amr_data %>%
-  group_by(`Pathogen name`, `R&D phase`) %>%
-  summarise(Num_Products = n())
+#Barplot showing innovation status of products
+# Load necessary libraries
+library(ggplot2)
+library(dplyr)
 
+# Filter out rows where 'Innovative?' is NA
+cleaned_amr_data <- amr_data %>%
+  filter(!is.na(`Innovative?`))
 
-# Scatter plot for innovative products by R&D phase and product type
-ggplot(amr_data, aes(x = `R&D phase`, y = `Product type`, color = `Innovative?`)) +
-  geom_jitter(width = 0.3, height = 0.3) +
-  labs(title = "Innovation Status of Products",
-       x = "R&D Phase", y = "Product Type", color = "Innovative?") +
-  theme_minimal()
+# Create a summarized dataset showing counts of innovative and non-innovative products
+innovation_summary <- cleaned_amr_data %>%
+  group_by(`Innovative?`) %>%
+  summarise(Count = n())
+
+# Create a bar plot to show the innovation status of products with count labels inside the bars
+ggplot(innovation_summary, aes(x = `Innovative?`, y = Count, fill = `Innovative?`)) +
+  geom_bar(stat = "identity") +
+  geom_text(aes(label = Count), vjust = -0.5, size = 5) +  # Add count labels
+  labs(title = "Innovation Status of Products", x = "Innovative?", y = "Number of Products") +
+  theme_minimal() +
+  theme(legend.position = "none")  # Remove legend since it's redundant with the x-axis
 
 
 install.packages("shiny")

@@ -9,6 +9,7 @@ The data for this infograph was drawn from the WHO pipeline of antibacterial pro
 
 The candidate products are classified by type, pathogen category, clinical development phase, expected activity against priority pathogens, route of administration, and innovativeness. According to the pipeline, 57.2% of the candidate products are antibiotics, while 42.8% are non-traditional products. This reflects a continued focus on antibiotic development, alongside an increasing emphasis on innovative non-traditional therapies, which may play a significant role in combating antimicrobial resistance (AMR). Non-traditional products include antibodies, bacteriophages, phage-derived enzymes, immunomodulating agents, microbiome-modulating agents, and other miscellaneous therapies.
 
+
 Regarding pipeline progress, 299 candidate products are in phase I, 170 in phase II, 143 in phase III, and 26 are targeting priority pathogens in the preregistration stage. This distribution shows that while a significant number of products are under development, many remain in early trial phases. The scatter plot highlights efforts to diversify AMR interventions, with particular focus on promoting non-traditional and innovative treatments. However, innovation in the field remains limited, as only 53% of the products are classified as innovative, indicating a gap in breakthrough treatments to effectively combat AMR. Additionally, 55% of the products contain a new chemical entity (NCE), with a majority intended for inhalation routes of administration.
 From the bar plot showing the innovation status, a significant portion, 228 products, are categorized as "not innovative," showing that these products do not represent new or groundbreaking advancements. Only 89 products were marked as "innovative," indicating they introduce novel approaches or solutions in their development.
 
@@ -18,6 +19,8 @@ The leading developers in this pipeline include Qpex Biopharma, Entasis Therapeu
 
 **Infograph**
 Link: [https://github.com/Cateline/Stage-2-HackBio-Visualization/blob/main/Stage%202%20Infograph.pdf](https://github.com/Cateline/Stage-2-HackBio-Visualization/blob/main/Infograph.revised.pdf)
+![image](https://github.com/user-attachments/assets/54984f97-df38-40e8-9c41-096e45017e7a)
+![image](https://github.com/user-attachments/assets/5250a0c1-bc2e-44f3-8af2-9e1998cab636)
 
 
 ## Reference

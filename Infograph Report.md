@@ -22,12 +22,6 @@ The expected activity of candidate products against priority pathogens is catego
 
 The leading developers in this pipeline include Qpex Biopharma, Entasis Therapeutics Inc., and GlaxoSmithKline. Their contributions signify strong investment by major pharmaceutical companies in addressing the global AMR crisis. While progress is being made, there is still a need for continued innovation in the development of AMR-targeting products.
 
-**Infograph**
-Link: [https://github.com/Cateline/Stage-2-HackBio-Visualization/blob/main/Stage%202%20Infograph.pdf](https://github.com/Cateline/Stage-2-HackBio-Visualization/blob/main/Infograph.revised.pdf)
-![image](https://github.com/user-attachments/assets/54984f97-df38-40e8-9c41-096e45017e7a)
-![image](https://github.com/user-attachments/assets/5250a0c1-bc2e-44f3-8af2-9e1998cab636)
-
-
 ## Reference
 
 World Health Organization. (2022). Antibacterial products in clinical development for priority pathogens. Online verfügbar unter https://www. who. int/publications/i/item/WHO-EMP-IAU-2019.12,[letzter Aufruf: 13.03. 2023].

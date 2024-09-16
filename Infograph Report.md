@@ -17,12 +17,8 @@ The expected activity of candidate products against priority pathogens is catego
 The leading developers in this pipeline include Qpex Biopharma, Entasis Therapeutics Inc., and GlaxoSmithKline. Their contributions signify strong investment by major pharmaceutical companies in addressing the global AMR crisis. While progress is being made, there is still a need for continued innovation in the development of AMR-targeting products.
 
 **Infograph**
-Link: https://github.com/Cateline/Stage-2-HackBio-Visualization/blob/main/Stage%202%20Infograph.pdf
+Link: [https://github.com/Cateline/Stage-2-HackBio-Visualization/blob/main/Stage%202%20Infograph.pdf](https://github.com/Cateline/Stage-2-HackBio-Visualization/blob/main/Infograph.revised.pdf)
 
-![image](https://github.com/user-attachments/assets/264f247c-948d-41b2-ba30-fce62599e7cd)
-
-
-![image](https://github.com/user-attachments/assets/0783bc49-0871-447c-92a6-7764b8c720e2)
 
 ## Reference
 
